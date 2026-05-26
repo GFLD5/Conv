@@ -18,3 +18,6 @@ A portable Windows desktop utility that downloads YouTube audio and converts it 
 - Tkinter
 - yt-dlp
 - FFmpeg
+
+## Disclaimer
+This is a small, personal educational project built for learning purposes. It is provided "as is" without any warranties. The author is not responsible for how users interact with this tool or for any third-party content downloaded using this software.
