@@ -10,7 +10,7 @@ A portable Windows desktop utility that downloads YouTube audio and converts it 
 
 ## How to Run
 1. Go to the Releases section on the right side of this page.
-2. Download the Conv_Windows.zip package and extract it.
+2. Download the Conv.rar package and extract it.
 3. Open the extracted folder and run Conv.exe (you can create a desktop shortcut for easier access).
 
 ## Requirements used for building
