@@ -33,6 +33,7 @@ def download_video():
 
         ydl_opts = {
             "format": "bestaudio/best",
+            "source_address": "0.0.0.0",
             "ffmpeg_location": ".",
             "postprocessors": [
                 {
